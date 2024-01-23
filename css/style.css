@@ -589,7 +589,7 @@ h1, h2, h3, h4, h5,
   right: 0;
   z-index: 2000;
   padding-top: 20px;
-  background: #fff;
+  background: var(--azul);
   height: calc(100vh);
   -webkit-transform: translateX(110%);
   -ms-transform: translateX(110%);
@@ -657,9 +657,9 @@ h1, h2, h3, h4, h5,
       position: relative;
       display: block; }
       .site-mobile-menu .site-nav-wrap li .nav-link.active {
-        color: #efba6c; }
+        color: var(--laranja); }
       .site-mobile-menu .site-nav-wrap li.active > a {
-        color: #efba6c; }
+        color: var(--laranja); }
     .site-mobile-menu .site-nav-wrap .arrow-collapse {
       position: absolute;
       right: 0px;
