@@ -367,6 +367,10 @@ h1, h2, h3, h4, h5,
   .bg-image > .container {
     position: relative;
     z-index: 1; }
+  
+.social-image{
+  height: 40px;
+}
 
 @media (max-width: 991.98px) {
   .img-md-fluid {
